@@ -1,2 +1,1 @@
-# readme
-readme
+Hello, my name is Boyukagha Aghayev. I am from Azerbaijan. Currently I am studying first year of Computer Engineering at Bilkent University. I have 3 years experinece in GameDev, 1 year of Olympiad Programming, and also JUNIOR C++ DEVELOPER TITLE.
